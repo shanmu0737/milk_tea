@@ -24,6 +24,7 @@ hello,I am xiaowang
 
 桂林在  小张
 <<<<<<< HEAD
+<<<<<<< HEAD
 ======
 压顶厅需要  小王
 >>>>>>> dev_wang
@@ -41,3 +42,9 @@ hello,I am xiaowang
 
 大规模无可奈何花落去  小王
 >>>>>>> dev_wang
+=======
+
+长沙  小张
+
+大规模 小张2
+>>>>>>> dev_zhang

@@ -35,4 +35,9 @@ hello,I am xiaowang
 压顶厅需要  小王
 
 小王又提交了代码
+<<<<<<< HEAD
+>>>>>>> dev_wang
+=======
+
+大规模无可奈何花落去  小王
 >>>>>>> dev_wang

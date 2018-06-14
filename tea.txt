@@ -56,4 +56,9 @@ hello,I am xiaowang
 大是大非  小王1
 
 小王2
+<<<<<<< HEAD
+>>>>>>> dev_wang
+=======
+
+小王3
 >>>>>>> dev_wang
